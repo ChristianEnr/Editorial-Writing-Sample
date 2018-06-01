@@ -1,6 +1,6 @@
 # Editorial-Writing-Sample
 
-An editoral response to the following prompt : 
+An editorial response to the following prompt : 
 "Public Health Information should be available as a human right, when it's needed, where it's needed."
 
 Final Paper for EPI 515 - Transforming Public Health Surveillance
